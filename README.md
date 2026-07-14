@@ -8,7 +8,7 @@ This project develops a machine learning model to predict school dropout rates i
 
 The project follows a complete end to end machine learning workflow, including data collection, preprocessing, exploratory data analysis, feature engineering, model development, hyperparameter tuning, and performance evaluation.
 
----
+
 
 ## Objectives
 
@@ -18,7 +18,7 @@ The project follows a complete end to end machine learning workflow, including d
 * Compare model performance using standard evaluation metrics.
 * Identify the most influential features affecting student dropout.
 
----
+
 
 ## Project Workflow
 
@@ -58,7 +58,7 @@ The project follows a complete end to end machine learning workflow, including d
      * R² Score
    * Compared model performance and interpreted feature importance.
 
----
+
 
 
 ## Tools and Technologies
@@ -71,7 +71,7 @@ The project follows a complete end to end machine learning workflow, including d
 * Scikit learn
 * UDISE+ Dataset
 
----
+
 
 ## Machine Learning Pipeline
 
@@ -84,19 +84,19 @@ The project follows a complete end to end machine learning workflow, including d
 * Model Evaluation
 * Feature Importance Analysis
 
----
+
 
 ## Dataset
 
 The project uses publicly available educational data from the **UDISE+ (Unified District Information System for Education)** portal, maintained by the Ministry of Education, Government of India.
 
----
+
 
 ## Results
 
 Several regression models were evaluated and compared using standard performance metrics. Hyperparameter tuning and cross-validation were employed to improve model generalization. Feature importance analysis helped identify the educational indicators that have the greatest influence on school dropout rates.
 
----
+
 
 ## Future Improvements
 
@@ -105,7 +105,7 @@ Several regression models were evaluated and compared using standard performance
 * Develop an interactive dashboard for visualization.
 * Deploy the trained model as a web application for educational policy analysis.
 
----
+
 
 ## Author
 
